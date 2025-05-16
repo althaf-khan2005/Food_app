@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193311800592",
+    "project_id": "first-app-54cae",
+    "storage_bucket": "first-app-54cae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193311800592:android:6092893ba7a23e65107995",
+        "android_client_info": {
+          "package_name": "com.example.althafapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Xyd5uhKitOIv6bBiTsJjwE6O84l5oaI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -19,6 +19,7 @@ A modern Flutter-based food ordering app powered by Firebase. Clean UI, login/si
 ## Dependencies  
 
 Add these dependencies to your `pubspec.yaml`:  
+```yaml
 dependencies:
   flutter:
     sdk: flutter
@@ -28,9 +29,11 @@ dependencies:
   provider: ^6.0.0
   flutter_svg: ^2.0.0
   geolocator: ^10.0.0
+```
 
 ## 📁 Project Structure
 
+```
 /lib
 │── auth.dart
 │── authservice.dart
@@ -54,6 +57,8 @@ dependencies:
 │   ├── themeprovider.dart
 │   └── ...
 
+```
+
 ## Authentication Flow  
 1. **Login/Signup**: User enters credentials and taps the login button.  
 2. **Auth Gateway**: Determines if the user is logged in and navigates accordingly.  
@@ -64,10 +69,9 @@ dependencies:
 
 1.Clone the repo
  ```sh
-git clone https://github.com/althaf-khan2005/Food_app.git
-cd Food_app
+  git clone https://github.com/althaf-khan2005/Food_app.git
+  cd Food_app
  ```
-
 2. Install dependencies  
    ```sh
    flutter pub get

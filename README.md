@@ -1,4 +1,4 @@
-# 🍔 Food App Abcenden
+# 🍔 Food App 
 
 A modern Flutter-based food ordering app powered by Firebase. Clean UI, login/signup, theme switching, and location-aware features make this app ideal for food delivery startups.
 
@@ -67,11 +67,11 @@ dependencies:
 
 ## How to run 
 
-1.Clone the repo
- ```sh
+1. Clone the repo  
+   ```sh
   git clone https://github.com/althaf-khan2005/Food_app.git
   cd Food_app
- ```
+   ```
 2. Install dependencies  
    ```sh
    flutter pub get

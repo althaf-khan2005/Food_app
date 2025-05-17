@@ -69,8 +69,8 @@ dependencies:
 
 1. Clone the repo  
    ```sh
-  git clone https://github.com/althaf-khan2005/Food_app.git
-  cd Food_app
+   git clone https://github.com/althaf-khan2005/Food_app.git
+   cd Food_app
    ```
 2. Install dependencies  
    ```sh

@@ -78,7 +78,7 @@ dependencies:
    ```
 3. Run the app  
    ```sh
-   flutter 
+   flutter run
 
 ## Screenshots 
 
